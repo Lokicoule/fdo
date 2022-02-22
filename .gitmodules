@@ -1,3 +1,6 @@
 [submodule "fdo-backend"]
 	path = fdo-backend
 	url = https://github.com/Lokicoule/fdo-backend.git
+[submodule "fdo-frontend"]
+	path = fdo-frontend
+	url = https://github.com/Lokicoule/fdo-frontend.git
